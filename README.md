@@ -1,4 +1,4 @@
 # Devesh-demo
 This is my first repository 
 <br>
-Author - Devesh Dhote
+Author - Devesh Dhote (IPS)
